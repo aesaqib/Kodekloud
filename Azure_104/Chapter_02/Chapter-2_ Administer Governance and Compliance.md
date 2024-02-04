@@ -1,4 +1,4 @@
-# # Chapter-2: Administer Governance and Compliance
+# # Chapter 2: Administer Governance and Compliance
 
 ---
 
