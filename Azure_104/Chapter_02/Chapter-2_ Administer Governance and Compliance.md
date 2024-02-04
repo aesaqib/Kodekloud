@@ -75,7 +75,30 @@
     - Allowed Resource Group Locations
     
     - Allowed Resources Types
+    
+    
 
 - **Initiatives**
   
-  - 
+  - Initiative in Microsoft Azure is group of Policies.
+  - Initiative helps to assign multiple policies in a single go.
+
+
+
+- Role Based Access Control (RBAC)
+  
+  - Role Based Access Control initiates user access to resources according to their roles.
+  
+  - There are few in built roles in Azure which are
+    
+    - Owner -- Full access to resources and can give permission to others
+    
+    - Contributior -- Create and manage all types of resources but cannot give access to others.
+    
+    - Reader -- Read-only Access
+    
+    - User Access Administrator -- Cannot manage resources but can give access to others.
+    
+    However, Custom roles can also be created.
+  
+  ![scope_rbac](scope_rbac.png)
