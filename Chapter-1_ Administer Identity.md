@@ -4,7 +4,11 @@
 
 - Microsoft Entra ID (Formerly MS Azure Active Directory)
   
-  - Microsoft Entra ID has four Tier License model i.e. Premium P1, Premium P2, Governance and Free
+  - Microsoft Entra ID has four Tier License model i.e. Premium P1, Premium P2, Governance and Free 
+    
+    
+    ![entra_ID_License](entra_ID_license.png)
+    
   
   - Microsoft Entra ID enforce users authentication and authorization in Microsoft Azure Portal.
   
