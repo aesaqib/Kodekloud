@@ -15,5 +15,5 @@
   - User creation, deletion can be done in bulk.
   
   - Users can reset own password without the help of the Azure Administrator using Self Service Password Reset (SSPR).
-
-- 
+  
+  
