@@ -17,5 +17,15 @@ The thumb rule is ***do not let your address space overlap with other Virtual Ne
     - Network Interface Card (NIC) Network Security Group (Works at Layer 1).
     
     - Subnet Network Security Group (Works at Layer 4).
+    
+    - Outbound rule is created automatically after Inbound rule creation.
 
 ![ipaddress](nsg.png)
+
+
+
+- **Application Security Groups (ASG)**
+  
+  - Application security group works at application layer (Layer 7).
+
+![ipaddress](asg.png)
