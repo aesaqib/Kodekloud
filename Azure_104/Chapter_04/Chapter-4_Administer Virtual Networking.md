@@ -8,4 +8,4 @@ The thumb rule is ***do not let your address space overlap with other Virtual Ne
 
 - Public and Private IP address have 2 different SKUs which are BASIC and STANDARD.
   
-  ![ipaddress](ipaddress.png)
+  ![ipaddress](ipaddress1.png)
