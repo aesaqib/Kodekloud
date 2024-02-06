@@ -9,3 +9,13 @@ The thumb rule is ***do not let your address space overlap with other Virtual Ne
 - Public and Private IP address have 2 different SKUs which are BASIC and STANDARD.
   
   ![ipaddress](ipaddress1.png)
+
+- **Network Security Groups (NSG)**
+  
+  - There are 2 types of Network Security Group which are
+    
+    - Network Interface Card (NIC) Network Security Group (Works at Layer 1).
+    
+    - Subnet Network Security Group (Works at Layer 4).
+
+![ipaddress](nsg.png)
